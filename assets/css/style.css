@@ -1,0 +1,70 @@
+
+
+body {
+    background: red;
+    
+}
+
+
+#header {
+    width:100%;
+    overflow: auto;
+    clear: both;
+    color:#cccccc;
+    background: #ffffff;
+   border-bottom:2px solid #cccccc 
+  }
+
+header {
+    float: left;
+  width: 200px;
+  height: 50px;
+  padding: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background:#4aaaa5;
+  text-align: center;
+  color:#ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 230%;
+
+}
+
+.button {
+   
+}
+
+#content {
+  width: 960px;
+  height: 30%;
+  padding: 20px;
+  margin-left: 17%;
+ margin-top: 50px;
+  
+  background: #ffffff;
+  border: 1px solid #eee;
+  
+}
+
+h1 {
+
+  width: 900px;
+  height: 50px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-top: 0px;
+  background: white;
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 250%;
+  border-bottom:2px solid #cccccc 
+}
+
+#bio-image {
+    height: 200px;
+     width: 150px;
+ }
+
+ .paragraph {
+   
+ }
