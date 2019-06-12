@@ -1,70 +1,47 @@
-
+#bio-image {
+  height: 250px;
+  width: 200px;
+}
 
 body {
-    background: red;
-    
+  background-image: url("../images/concrete_seamless.png");
 }
 
-
-#header {
-    width:100%;
-    overflow: auto;
-    clear: both;
-    color:#cccccc;
-    background: #ffffff;
-   border-bottom:2px solid #cccccc 
-  }
+.navbar-brand {
+  background-color: #4aaaa5;
+}
 
 header {
-    float: left;
-  width: 200px;
-  height: 50px;
-  padding: 20px;
-  margin-left: 150px;
-  margin-right: 150px;
-  background:#4aaaa5;
-  text-align: center;
-  color:#ffffff;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 230%;
-
+  border-bottom: 2px solid #cccccc;
 }
 
-.button {
-   
-}
-
-#content {
-  width: 960px;
-  height: 30%;
-  padding: 20px;
-  margin-left: 17%;
- margin-top: 50px;
-  
-  background: #ffffff;
-  border: 1px solid #eee;
-  
-}
-
-h1 {
-
-  width: 900px;
-  height: 50px;
-  padding: 20px;
-  margin-left: 10px;
-  margin-top: 0px;
-  background: white;
+.head {
   color:#4aaaa5;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 250%;
-  border-bottom:2px solid #cccccc 
 }
 
-#bio-image {
-    height: 200px;
-     width: 150px;
- }
+.footer {
+  background-color: #666666;
+  border-top: 7px solid #4aaaa5;
+  width: 100%; 
+}
 
- .paragraph {
-   
- }
+.footColor {
+  color: #cccccc;
+}
+
+#submit{
+  background-color: #4aaaa5;
+  color: white;
+}
+
+.description{
+position: absolute;
+width: 300px;
+top: 150px;
+padding: 8px;
+width: 300px;
+text-align: center;
+background-color: #4aaaa5;
+color: white 
+}
+
